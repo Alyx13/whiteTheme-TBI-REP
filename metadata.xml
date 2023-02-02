@@ -1,7 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-	<name>WhiteTheme</name>
-	<directory>white_theme</directory>
-	<description/>
-	<version>1</version>
-	<visibility/>
+    <name>WhiteTheme</name>
+    <directory>white_theme</directory>
+    <id>2927306463</id>
+    <description></description>
+    <version>1.0</version>
+    <visibility>Public</visibility>
 </metadata>

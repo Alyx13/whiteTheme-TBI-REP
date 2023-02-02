@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-    <name>WhiteTheme</name>
+    <name>white_theme</name>
     <directory>white_theme</directory>
-    <id>2927306463</id>
-    <description></description>
-    <version>1.0</version>
+    <id>2927396954</id>
+    <description>ABout 85% done, this mod changes all the of the menu assets to white.</description>
+    <version>1.1</version>
     <visibility>Public</visibility>
+    <tag id="Graphics"/>
 </metadata>
